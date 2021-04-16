@@ -734,6 +734,7 @@ And All Other's Who Shared Or Posted About Reseter.css (Keeping A Record Of All 
 ### GitHub Stargazers
 
 [![Stargazers over time](https://starchart.cc/krishdevdb/reseter.css.svg)](https://starchart.cc/krishdevdb/reseter.css)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrishdevdb%2Freseter.css.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrishdevdb%2Freseter.css?ref=badge_shield)
 
 ## License
 
@@ -758,6 +759,9 @@ And All Other's Who Shared Or Posted About Reseter.css (Keeping A Record Of All 
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkrishdevdb%2Freseter.css.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkrishdevdb%2Freseter.css?ref=badge_large)
 
 ## Status
 
