@@ -14,4 +14,3 @@ fixes # <!-- Creating an issue before an Pull Request never hurts -->
 
 ## Screenshots (if appropriate):
 
-=======
