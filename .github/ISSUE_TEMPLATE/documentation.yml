@@ -24,7 +24,7 @@ body:
     id: contributing
     attributes:
       label: Contributing
-      description: You accept that you've read the [Contributing](https://github.com/krishdevdb/.github/blob/main/contributing.md)
+      description: You accept that you've read the [Contributing](https://github.com/resetercss/reseter.css/blob/main/contributing.md)
       options:
         - label: I have read the project's contribution guidelines.
           required: true
@@ -35,7 +35,7 @@ body:
     id: code-of-conduct
     attributes:
       label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/krishdevdb/.github/blob/main/code_of_conduct.md)
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/resetercss/reseter.css/blob/main/code_of_conduct.md)
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
