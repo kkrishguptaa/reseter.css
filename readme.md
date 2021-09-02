@@ -15,7 +15,7 @@
 
 There are many inconsistencies between browsers. Like Firefox 3 has a margin on top of paragraphs but Internet Explorer 7 doesn't have any margin. There are thousands of browsers with hundreds of versions. Each version at least has 500+ inconsistencies with different browsers' different versions. How to keep up? This is an easy to use solution called **reseter.css**
 
-![Browser Inconsistencies](https://github.com/resetercss/reseter.css/raw/master/.github/assets/css_reset.png)
+![Browser Inconsistencies](https://github.com/resetercss/reseter.css/blob/main/.github/assets/css_reset.png)
 
 ## 🆚 There are other resets, why reseter.css?
 
