@@ -15,7 +15,7 @@
 
 There are many inconsistencies between browsers. Like Firefox 3 has a margin on top of paragraphs but Internet Explorer 7 doesn't have any margin. There are thousands of browsers with hundreds of versions. Each version at least has 500+ inconsistencies with different browsers' different versions. How to keep up? This is an easy to use solution called **reseter.css**
 
-![Browser Inconsistencies](https://github.com/krishdevdb/reseter.css/raw/master/.github/assets/css_reset.png)
+![Browser Inconsistencies](https://github.com/resetercss/reseter.css/raw/master/.github/assets/css_reset.png)
 
 ## 🆚 There are other resets, why reseter.css?
 
@@ -59,7 +59,7 @@ There are many inconsistencies between browsers. Like Firefox 3 has a margin on 
 
 5. How about reading a guide for best performance? Here's the link to [optimizing reseter.css for production](#-optimize)
 
-6. Lastly you can view [our wiki for best practices and performance guides](https://github.com/krishdevdb/reseter.css/wiki/Performance)
+6. Lastly you can view [our wiki for best practices and performance guides](https://github.com/resetercss/reseter.css/wiki/Performance)
 
 7. 🥳 All Set Now
 
@@ -163,4 +163,4 @@ Reseter.css as said, is a zero-dependency project and excels in integrating with
 
 ## ❤ Thanks to our supporters
 
-[![GitHub Stargazers](https://reporoster.com/stars/krishdevdb/reseter.css)](https://github.com/krishdevdb/reseter.css/stargazers)
+[![GitHub Stargazers](https://reporoster.com/stars/resetercss/reseter.css)](https://github.com/resetercss/reseter.css/stargazers)
