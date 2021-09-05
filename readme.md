@@ -67,7 +67,7 @@ There are many inconsistencies between browsers. Like Firefox 3 has a margin on 
 
 * [CodeSandBox](https://codesandbox.io/s/resetercss-26kzw)
 
-* [CodePen](https://codepen.io/resetercss/pen/XWppdvK)
+* [CodePen](https://codepen.io/krishdevdb/pen/XWppdvK)
 
 * More soon...
 
