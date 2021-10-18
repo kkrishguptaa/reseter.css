@@ -163,6 +163,7 @@ dl,
 ol,
 ul {
   margin: 1em 0;
+  list-style: none;
 }
 
 ol ol,
