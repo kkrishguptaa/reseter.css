@@ -73,7 +73,7 @@
     "brotli-size": "^4.0.0",
     "bundlewatch": "^0.3.2",
     "clean-css-cli": "^5.2.2",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.3",
     "less": "^4.1.1",
     "postcss": "^8.2.9",
     "postcss-cli": "^9.0.0",
