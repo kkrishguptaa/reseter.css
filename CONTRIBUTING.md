@@ -2,7 +2,7 @@
 
 ## 💣 Reporting Bugs
 
-This section guides you through submitting a bug report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behaviour 💻 💻, and find related reports. 🔎
+This section guides you through submitting a bug 🐞 report. Following these guidelines helps maintainers and the community understand your report 📝, reproduce the behaviour 💻 💻, and find related reports. 🔎
 
 Since the new GitHub Issue forms, we only suggest you include the most information possible. But you can also **Perform a [cursory search](../../../issues)** to see if the enhancement has already been suggested. If it has, adds a comment to the existing issue instead of opening a new one.
 
