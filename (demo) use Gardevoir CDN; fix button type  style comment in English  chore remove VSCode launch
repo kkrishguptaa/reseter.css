@@ -1,0 +1,44 @@
+warning: in the working copy of 'demo.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/components/global.scss', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/demo.html b/demo.html[m
+[1mindex 71b56c3..a3b977d 100644[m
+[1m--- a/demo.html[m
+[1m+++ b/demo.html[m
+[36m@@ -4,7 +4,7 @@[m
+   <meta charset="UTF-8" />[m
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+   <title>Reseter.css Demo</title>[m
+[31m-  <link rel="stylesheet" href="reseter.css" />[m
+[32m+[m[32m  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gardevoir" />[m
+   <style>[m
+     body { padding: 2rem; font-family: sans-serif; }[m
+     section { margin-bottom: 2rem; }[m
+[36m@@ -25,13 +25,13 @@[m
+     <form>[m
+       <label>Nome: <input type="text" /></label><br><br>[m
+       <label>Email: <input type="email" /></label><br><br>[m
+[31m-      <button>Enviar</button>[m
+[32m+[m[32m      <button type="button">Enviar</button>[m
+     </form>[m
+   </section>[m
+ [m
+   <section>[m
+     <h2>Botões e Tipografia</h2>[m
+[31m-    <button>Clique Aqui</button>[m
+[32m+[m[32m    <button type="button">Clique Aqui</button>[m
+     <p>Texto comum</p>[m
+     <strong>Texto em negrito</strong>[m
+     <em>Texto em itálico</em>[m
+[1mdiff --git a/src/components/global.scss b/src/components/global.scss[m
+[1mindex 2b5da0d..95df3f5 100644[m
+[1m--- a/src/components/global.scss[m
+[1m+++ b/src/components/global.scss[m
+[36m@@ -24,7 +24,7 @@[m
+ :where(p + p) {[m
+   margin-top: 1rem;[m
+ }[m
+[31m-// Acessibilidade: reduz animações para usuários que preferem menos movimento[m
+[32m+[m[32m// Accessibility: reduce motion for users who prefer less movement[m
+ @media (prefers-reduced-motion: reduce) {[m
+   *, *::before, *::after {[m
+     animation-duration: 0.001ms !important;[m
