@@ -24,15 +24,3 @@
 :where(p + p) {
   margin-top: 1rem;
 }
-// Accessibility: reduce motion for users who prefer less movement
-@media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after {
-    animation: none !important;
-    transition: none !important;
-  }
-
-  html, html:focus-within {
-    scroll-behavior: auto !important;
-  }
-}
-
