@@ -133,4 +133,5 @@ Gardevoir as said, is a zero-dependency project and excels in integrating with a
 
 ## ❤️ Thanks to our supporters
 
-[![Contributors](https://contrib.rocks/image?repo=krshoss/gardevoir)](https://github.com/krshoss/gardevoir/graphs/contributors)
+### ⭐ Stargazers
+[![GitHub Stars](https://img.shields.io/github/stars/krshoss/gardevoir?style=for-the-badge&color=gold)](https://github.com/krshoss/gardevoir/stargazers)
