@@ -134,3 +134,32 @@ Gardevoir as said, is a zero-dependency project and excels in integrating with a
 ## ❤ Thanks to our supporters
 
 [![GitHub Stargazers](https://reporoster.com/stars/krshoss/gardevoir)](https://github.com/krshoss/gardevoir/stargazers)
+
+## 🔧 Framework Integration
+
+Gardevoir works seamlessly with modern JavaScript frameworks. Check out our comprehensive integration guide and examples:
+
+- **[Framework Integration Guide](docs/framework-integration.md)** - Detailed setup instructions for React, Vue, Angular, and more
+- **[Working Examples](examples/)** - Complete example projects you can run and learn from
+
+### Quick Framework Setup
+
+**React/Next.js:**
+```jsx
+import 'gardevoir';
+import './your-styles.css';
+```
+
+**Vue/Nuxt.js:**
+```js
+// main.js or nuxt.config.js
+import 'gardevoir';
+```
+
+**Angular:**
+```css
+/* styles.css */
+@import 'gardevoir';
+```
+
+For complete setup instructions, build configurations, and troubleshooting, see our [Framework Integration Guide](docs/framework-integration.md).
