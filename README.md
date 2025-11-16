@@ -105,6 +105,14 @@ Gardevoir as said, is a zero-dependency project and excels in integrating with a
 >
 > Make Sure To Link Your Custom Stylesheet After Gardevoir Else Your Custom Styles Might Not Be Implemented
 
+## 🧱 Framework Integration
+
+Using React, Next.js, Vue, Nuxt, Angular, Svelte or others? See the new [Framework Integration Guide](./docs/frameworks.md) for:
+- Correct import ordering
+- SSR considerations (Next.js / Nuxt)
+- Build tool setups (Vite, Webpack, Rollup, Parcel)
+- Performance optimization & troubleshooting tips
+
 ## 🚅 Optimize
 
 > [!Note]
