@@ -38,6 +38,9 @@ For JS entry imports, simply `import 'gardevoir';` before other style imports.
 ## React
 
 ### Vite (React)
+
+> 💡 **Working Example:** See [`examples/react-vite/`](../examples/react-vite/) for a complete runnable project.
+
 ```jsx
 // src/main.jsx
 import React from 'react';
