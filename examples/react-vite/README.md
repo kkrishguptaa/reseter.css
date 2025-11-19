@@ -63,7 +63,7 @@ npm run preview
 
 ## Project Structure
 
-```
+```plaintext
 react-vite/
 ├── package.json          # Dependencies including Gardevoir
 ├── vite.config.js        # Standard Vite config
