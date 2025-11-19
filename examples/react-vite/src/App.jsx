@@ -33,7 +33,7 @@ function App() {
             Count: {count}
           </button>
           
-          <form>
+          <form onSubmit={(e) => e.preventDefault()}>
             <label htmlFor="name">Name:</label>
             <input type="text" id="name" placeholder="Enter your name" />
             

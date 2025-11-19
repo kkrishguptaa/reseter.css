@@ -5,18 +5,21 @@ This example demonstrates how to properly integrate **Gardevoir (reseter.css)** 
 ## Key Integration Points
 
 ### 1. Import Order (src/main.jsx)
+
 ```jsx
-import 'gardevoir'           // ✅ Import Gardevoir FIRST
-import './globals.css'       // ✅ Then your custom styles
-import App from './App.jsx'
+import "gardevoir"; // ✅ Import Gardevoir FIRST
+import "./globals.css"; // ✅ Then your custom styles
+import App from "./App.jsx";
 ```
 
 **Why this order matters:**
+
 - Gardevoir provides the CSS reset baseline
 - Your custom styles override the reset where needed
 - Importing Gardevoir last would override your custom styles
 
 ### 2. Package Installation
+
 ```bash
 npm install gardevoir
 ```
@@ -26,21 +29,25 @@ Gardevoir is listed in `package.json` as a regular dependency since it's require
 ## Running the Example
 
 ### Install dependencies
+
 ```bash
 npm install
 ```
 
 ### Start development server
+
 ```bash
 npm run dev
 ```
 
 ### Build for production
+
 ```bash
 npm run build
 ```
 
 ### Preview production build
+
 ```bash
 npm run preview
 ```
@@ -78,10 +85,12 @@ react-vite/
 ## Troubleshooting
 
 **Styles not applying?**
+
 - Verify import order in `src/main.jsx`
 - Ensure Gardevoir is imported before custom styles
 
 **TypeScript version?**
+
 - Rename `.jsx` files to `.tsx`
 - Add `@types/react` and `@types/react-dom` dev dependencies
 
