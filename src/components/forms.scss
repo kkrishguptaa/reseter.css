@@ -90,3 +90,27 @@
 :-moz-ui-invalid {
   box-shadow: none;
 }
+
+/* Modern focus management for better accessibility */
+:where(
+  a,
+  button,
+  input,
+  select,
+  textarea,
+  [tabindex]:not([tabindex="-1"])
+):focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+/* Remove focus outline for mouse users */
+:where(
+  a,
+  button,
+  input,
+  select,
+  textarea
+):focus:not(:focus-visible) {
+  outline: none;
+}
